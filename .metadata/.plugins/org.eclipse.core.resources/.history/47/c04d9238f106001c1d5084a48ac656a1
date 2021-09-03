@@ -1,8 +1,0 @@
-package day19_DB;
-
-public class MainClass {
-	public static void main(String[] args) {
-		DBClass db = new DBClass(); // DBClass 按眉 积己 -> 积己磊 龋免
-		
-	}
-}
